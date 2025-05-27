@@ -1,4 +1,4 @@
-## O 👋
+## Ola 👋
 
 - 🔭 Faço principalmente back-ends
 - 🌱 Estou cursando meu 1º ano de DS
