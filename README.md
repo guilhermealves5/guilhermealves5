@@ -5,3 +5,5 @@
 - 📫 Contate-me em: guilhermealvesteodoro.dev@gmail.com
 - ⚡ Em busca de aprender a programar de forma avançada
 
+# [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermealves5&show_icons=true&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+# [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermealves5&show_icons=true&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
