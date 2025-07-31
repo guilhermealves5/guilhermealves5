@@ -16,7 +16,7 @@
 * **Arduino** *(Básico)*
 * **Excel** *(Avançado)*
 * **Word** *(Avançado)*
-* **PowerPoint** *(Médio)*
+* **PowerPoint** *(Intermediário)*
 * **Git** *(Básico)*
 
 
